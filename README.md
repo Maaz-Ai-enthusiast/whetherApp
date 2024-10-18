@@ -1,6 +1,3 @@
-Sure! Here’s a README file for your Weather App structured similarly to the Todo application README you provided, with a live demo section at the beginning:
-
-```markdown
 # Live Demo: [Weather App](https://wheatherappmaaz.netlify.app/)
 
 # Weather App
@@ -20,7 +17,7 @@ A weather application built with React that allows users to search for and view 
    ```bash
    git clone https://github.com/Maaz-Ai-enthusiast/weather-app.git
    cd weather-app
-   ```
+
 
 2. **Install Dependencies**:
    ```bash
